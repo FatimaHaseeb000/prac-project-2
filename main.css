@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: midnightblue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic ;
+ text-align: center;
+ background-color: moccasin;
+}
+h3{
+    font-size: 20px;
+    font-weight: lighter;
+    color: moccasin;
+
+
+}
+body{
+    background-color: rgb(47, 48, 65);
+    
+}
+ul{
+    text-align: center;
+    color: moccasin;
+    font-size: 25px;
+}
+span{
+    color: moccasin;
+}
+img{
+    size: 250px;
+}
